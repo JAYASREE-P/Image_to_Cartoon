@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Image_to_Cartoon
 =======
 # Cartoon
